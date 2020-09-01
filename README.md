@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 项目预览地址
+[点此预览](http://xiaoxo.gitee.io/plugin-music)
